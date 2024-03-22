@@ -16,7 +16,7 @@ Clone o repositório para o seu ambiente local:
 
 git clone https://github.com/LucasKuzmaDEV/Challenge
 Navegue até o diretório do projeto:
-cd 2
+cd challenge
 
 Instale as dependências do projeto:
 npm install
