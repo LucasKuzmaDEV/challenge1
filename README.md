@@ -14,7 +14,7 @@ Instalação
 Clone o repositório para o seu ambiente local:
 
 
-git clone https://github.com/LucasKuzmaDEV/Challenge
+git clone https://github.com/LucasKuzmaDEV/challenge1
 Navegue até o diretório do projeto:
 cd challenge
 
